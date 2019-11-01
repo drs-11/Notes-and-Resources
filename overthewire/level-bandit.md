@@ -25,3 +25,14 @@ This level mainly helps in understanding and learning about linux.
 * For creating a <a href="https://en.wikipedia.org/wiki/Hex_dump">hexdump</a>
 	* <a href="https://www.tutorialspoint.com/unix_commands/xxd.htm">xxd</a>
 	* hexdump
+* <a href="https://en.wikipedia.org/wiki/Secure_Shell">ssh</a>
+* <a href="https://en.wikipedia.org/wiki/RSA_(cryptosystem)">RSA encryption system</a>
+* <a href="https://en.wikipedia.org/wiki/Port_(computer_networking)">Ports</a> in computer networking
+* <a href="https://en.wikipedia.org/wiki/IP_address">IP addresses</a>
+* <a href="https://linux.die.net/man/1/nc"Netcat</a> - It is a computer networking utility for reading from and writing to network connections using TCP or UDP
+* <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">SSL/TLS</a> protocol
+* <a href="https://en.wikipedia.org/wiki/Nmap">Nmap</a> -It is used to discover hosts and services on a computer network by sending packets and analyzing the responses
+* diff - This command is used to display the differences in the files by comparing the files line by line 
+* remote commands via ssh can be given like this: <code>ssh <username>@<server> "<command>"</code>
+* <a href="https://en.wikipedia.org/wiki/Setuid">setuid, setgid binaries</a>
+	
