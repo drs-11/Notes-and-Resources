@@ -33,6 +33,6 @@ This level mainly helps in understanding and learning about linux.
 * <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">SSL/TLS</a> protocol
 * <a href="https://en.wikipedia.org/wiki/Nmap">Nmap</a> -It is used to discover hosts and services on a computer network by sending packets and analyzing the responses
 * diff - This command is used to display the differences in the files by comparing the files line by line 
-* remote commands via ssh can be given like this: <code>ssh <username>@<server> "<command>"</code>
+* remote commands via ssh can be given like this: <code>ssh {username}@{server} "{command}"</code>
 * <a href="https://en.wikipedia.org/wiki/Setuid">setuid, setgid binaries</a>
 	
