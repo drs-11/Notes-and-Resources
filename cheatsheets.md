@@ -1,0 +1,2 @@
+- <a href="https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml">Markdown and YAML</a>
+- <a href="https://devhints.io/bash">Shell Scripting</a>
