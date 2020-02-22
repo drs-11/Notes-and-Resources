@@ -29,7 +29,7 @@ This level mainly helps in understanding and learning about linux.
 * <a href="https://en.wikipedia.org/wiki/RSA_(cryptosystem)">RSA encryption system</a>
 * <a href="https://en.wikipedia.org/wiki/Port_(computer_networking)">Ports</a> in computer networking
 * <a href="https://en.wikipedia.org/wiki/IP_address">IP addresses</a>
-* <a href="https://linux.die.net/man/1/nc"Netcat</a> - It is a computer networking utility for reading from and writing to network connections using TCP or UDP
+* <a href="https://linux.die.net/man/1/nc">Netcat</a> - It is a computer networking utility for reading from and writing to network connections using TCP or UDP
 * <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">SSL/TLS</a> protocol
 * <a href="https://en.wikipedia.org/wiki/Nmap">Nmap</a> -It is used to discover hosts and services on a computer network by sending packets and analyzing the responses
 * diff - This command is used to display the differences in the files by comparing the files line by line 
